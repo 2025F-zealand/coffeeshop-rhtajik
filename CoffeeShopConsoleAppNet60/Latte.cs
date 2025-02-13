@@ -12,5 +12,11 @@ namespace CoffeeShopConsoleAppNet60
         {
             return 40;
         }
+
+
+        public override string Strength()
+        {
+            return "Weak";
+        }
     }
 }

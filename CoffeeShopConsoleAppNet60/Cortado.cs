@@ -12,5 +12,10 @@ namespace CoffeeShopConsoleAppNet60
         {
             return 25;
         }
+
+        public override string Strength()
+        {
+            return "Medium";
+        }
     }
 }
