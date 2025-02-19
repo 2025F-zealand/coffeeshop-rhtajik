@@ -18,5 +18,11 @@ namespace CoffeeShopConsoleAppNet60
         {
             return "Weak";
         }
+
+
+        public int mlMilk()
+        {
+            return 200;
+        }
     }
 }

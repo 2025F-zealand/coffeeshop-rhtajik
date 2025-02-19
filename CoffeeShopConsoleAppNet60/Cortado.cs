@@ -17,5 +17,11 @@ namespace CoffeeShopConsoleAppNet60
         {
             return "Medium";
         }
+
+
+        public int mlMilk()
+        {
+            return 40;
+        }
     }
 }
